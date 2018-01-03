@@ -1,0 +1,12 @@
+i:存储库
+from:AUTO
+to:AUTO
+smartresult:dict
+client:fanyideskweb
+salt:1514985519455
+sign:459d49272c0778d8c0acead9c494f4a9
+doctype:json
+version:2.1
+keyfrom:fanyi.web
+action:FY_BY_CLICKBUTTION
+typoResult:false
