@@ -3,7 +3,7 @@
 #     return
 #     print('%s %s' % (s, x))
 #     return 1
-#     return 1, '123', [1, 2]
+#     return 1, '123', [1, 2]     # Return (1, '123', [1, 2])
 
 # return None in default, return as so too
 
@@ -42,14 +42,15 @@
 # add(1, 2, 3)
 
 
-# def add(a='1', *args, **kkk):
-#     print(type(a))
-#     print(args)
-#     for i in kkk:       # No a
-#         print('%s : %s' % (i, kkk[i]))
-#
-#
-# add(1, [1, 2], number=[1, 2, 3], percentage=234)        # a is int
+def add(a='1', *args, **kkk):
+    print(type(a))
+    print(args)
+    for i in kkk:       # No a
+        print('%s : %s' % (i, kkk[i]))
+
+
+add(1, [1, 2], number=[1, 2, 3], percentage=234)        # a is int
+add(1, *[1, 2], number=[1, 2, 3], percentage=234)        # a is int, so you can use ** to post dic to **kkk
 # add(number=[1, 2, 3], percentage=234)       # a is string
 # add(number=123, percentage=234, 1, 2)       # Wrong here
 
@@ -101,7 +102,6 @@ def f1():
     f2()
     print("f1a:", a)
     print("f1b:", b)
-
 
 
 f1()

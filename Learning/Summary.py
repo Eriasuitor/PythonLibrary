@@ -37,9 +37,9 @@
 # # Set
 #
 # a = [[1, 2], "C"]
-# b = [1, 2, 3]
+b = [1, 2, 3]
 # # c = set(a)  # Will throw a exception here, [1, 2] is un hashable
-# d = set(b)
+d = set(b)
 #
 # # e = {d: "123"}  # Will throw a exception here, d is un hashable
 # e = {"123": d}  # Right here
@@ -55,11 +55,11 @@
 #
 # d.add("asd")    # asd will insert as a whole
 # d.update("asd")  # a s d will insert respectively
-# d.update([1, 2, "123"])  # Same as above
+d.update([1, 2, "123"])  # Same as above
 # d.remove("asd")
 # d.pop()  # Delete a value by fate
 # d.clear()
-# print(d)
+print(d)
 
 # del d
 
