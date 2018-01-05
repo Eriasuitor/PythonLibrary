@@ -12,4 +12,4 @@ def f2(a, b, f):
 
 f11 = f1
 fx = f2(1, 2, f11)
-fx(6, 2)        # Result is not 36
+fx(6, 2)        # Result is not 36, f3() is a closure, G will introduce it.
