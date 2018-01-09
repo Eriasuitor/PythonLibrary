@@ -3,12 +3,14 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Learning/D_Function.py" line="21" />
     <bookmark url="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/Learning/K_RegularExpression.py" line="84" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="124457c3-6ab3-48b9-a198-bede7a209164" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Learning/Time&amp;Random.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Learning/J_Module.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Learning/Time&amp;Random.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,16 +53,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B_File.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/B_File.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="A_Decoding&amp;Endoding.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/A_Decoding&amp;Endoding.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,16 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YoudaoData" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="G_Closure&amp;Decorator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/G_Closure&amp;Decorator.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,21 +86,41 @@
       <file leaf-file-name="H_ListProduction&amp;Generator&amp;Iterator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1798">
-              <caret line="62" column="17" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <state relative-caret-position="1450">
+              <caret line="50" column="65" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Time&amp;Random.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py">
+      <file leaf-file-name="J_Module.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learning/J_Module.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="590">
-              <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="I_Time&amp;Random.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/I_Time&amp;Random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="K_RegularExpression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/K_RegularExpression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2359">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,12 +165,15 @@
         <option value="$PROJECT_DIR$/Learning/H_ListGenerator.py" />
         <option value="$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py" />
         <option value="$PROJECT_DIR$/Learning/Time&amp;Random.py" />
+        <option value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+        <option value="$PROJECT_DIR$/Learning/I_Time&amp;Random.py" />
+        <option value="$PROJECT_DIR$/Learning/J_Module.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="189" />
-    <option name="y" value="82" />
+    <option name="x" value="632" />
+    <option name="y" value="88" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -190,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,43 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Time&amp;Random">
-    <configuration name="G_Closure" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLibrary" />
-      <option name="SCRIPT_NAME" value="D:\PythonLibrary\Learning\G_Closure&amp;Decorator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="G_Closure&amp;Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLibrary" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/G_Closure&amp;Decorator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.J_Module">
     <configuration name="H_ListGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +272,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="J_Module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLibrary" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/J_Module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="K_RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLibrary" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Time&amp;Random" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,19 +327,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.G_Closure" />
-      <item index="1" class="java.lang.String" itemvalue="Python.G_Closure&amp;Decorator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.H_ListGenerator" />
-      <item index="3" class="java.lang.String" itemvalue="Python.H_ListProduction&amp;Generator&amp;Iterator" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Time&amp;Random" />
+      <item index="0" class="java.lang.String" itemvalue="Python.H_ListGenerator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.H_ListProduction&amp;Generator&amp;Iterator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Time&amp;Random" />
+      <item index="3" class="java.lang.String" itemvalue="Python.J_Module" />
+      <item index="4" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Time&amp;Random" />
-        <item index="1" class="java.lang.String" itemvalue="Python.H_ListProduction&amp;Generator&amp;Iterator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.H_ListGenerator" />
-        <item index="3" class="java.lang.String" itemvalue="Python.G_Closure&amp;Decorator" />
-        <item index="4" class="java.lang.String" itemvalue="Python.G_Closure" />
+        <item index="0" class="java.lang.String" itemvalue="Python.J_Module" />
+        <item index="1" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Time&amp;Random" />
+        <item index="3" class="java.lang.String" itemvalue="Python.H_ListProduction&amp;Generator&amp;Iterator" />
+        <item index="4" class="java.lang.String" itemvalue="Python.H_ListGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -396,32 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/F_Built-inFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning/D_Function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1508">
@@ -467,7 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,21 +756,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py" />
     <entry file="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1798">
-          <caret line="62" column="17" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        <state relative-caret-position="1450">
+          <caret line="50" column="65" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py">
+    <entry file="file://$PROJECT_DIR$/Learning/K_RegularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="2359">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/I_Time&amp;Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/J_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>

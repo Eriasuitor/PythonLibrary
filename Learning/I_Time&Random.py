@@ -12,7 +12,8 @@ print(help(time.strftime))
 localTime = time.localtime()
 print(time.strftime('%Y-%m-%d %H:%M:%S', localTime))
 print(time.strptime('2018-01-06 20:52:10', '%Y-%m-%d %H:%M:%S'))
-# time.struct_time(tm_year=2018, tm_mon=1, tm_mday=6, tm_hour=20, tm_min=52, tm_sec=10, tm_wday=5, tm_yday=6, tm_isdst=-1)
+# time.struct_time(tm_year=2018, tm_mon=1, tm_mday=6, tm_hour=20, tm_min=52, tm_sec=10, tm_wday=5, tm_yday=6,
+# tm_isdst=-1)
 print(time.strptime('2018-01-06 20:52:10', '%Y-%m-%d %H:%M:%S').tm_mon)
 
 print(time.ctime())
