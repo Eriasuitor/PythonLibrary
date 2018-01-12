@@ -44,7 +44,7 @@ print(re.findall('L[a-r1-9]{2}y', 'Lory isLo9y so hanLo,ydsome'))       # Same a
 print(re.findall('L[*,o]ry', 'Lory isL*ry so handsome'))        # */+/? is not a special character in here, , is able to
 print(re.findall('L[?,o]ry', 'Lory isL?ry so handsome'))
 # */+/?... is not a special character in here, \ ^ - is not included.
-print(re.findall('L[^?,o]ry', 'Lory isL?ry so handsome'))       # ^ is the not, means not ? and not o
+print(re.findall('L[^?,o]ry', 'Lory isL?ry so handsome'))       # ^ is the not, means not ? and not o and not ,
 
 # \ \d means number, \w means figure, \ can eliminate the special means of . / ^ /[ /] ...etc
 '''
@@ -97,3 +97,5 @@ print(obj.split('234234www.baidu.com123123www.youku.com'))      #['234234', 'bai
 # Add ? after "*","?","+","{m,n}" can make match ruler not greed.
 
 print(re.search('a..b', 'asdasaxcbdasdbsd').span())
+
+print(re.findall('a(.{1,100}?)b', 'accbfsdfsadfb')[0])      # Return cc not accb!
