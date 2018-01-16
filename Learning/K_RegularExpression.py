@@ -97,3 +97,8 @@ print(obj.split('234234www.baidu.com123123www.youku.com'))      #['234234', 'bai
 # Add ? after "*","?","+","{m,n}" can make match ruler not greed.
 
 print(re.search('a..b', 'asdasaxcbdasdbsd').span())
+
+
+def func():
+    i = 5
+    print('Hello, ' + str(i))

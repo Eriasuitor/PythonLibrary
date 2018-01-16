@@ -23,3 +23,17 @@ print(time())       # Not time.time() anymore
 
 # import a package will Execute __init__.py file, import a module will execute all file
 
+import sys, os      # Using cmd to discover the difference.
+
+print(sys.path)
+print(__name__)
+print(__file__)
+print(os.path.abspath(__file__))
+print(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append('')
+
+import pickle
+
+with open('L_FuncByPickle.txt', 'rb') as f:
+    fun = pickle.loads(f.read())
+    fun()       # Video say can't run here but we succeed.
