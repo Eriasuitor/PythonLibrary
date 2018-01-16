@@ -3,14 +3,21 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Learning/D_Function.py" line="21" />
     <bookmark url="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py" line="35" />
-    <bookmark url="file://$PROJECT_DIR$/Learning/K_RegularExpression.py" line="84" />
+    <bookmark url="file://$PROJECT_DIR$/Learning/K_RegularExpression.py" line="86" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="124457c3-6ab3-48b9-a198-bede7a209164" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/Learning/L_Json&amp;Pickle&amp;Shelve.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Learning/J_Module.py" afterPath="$PROJECT_DIR$/Learning/J_Module.py" />
       <change beforePath="$PROJECT_DIR$/Learning/K_RegularExpression.py" afterPath="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+=======
+    <list default="true" id="124457c3-6ab3-48b9-a198-bede7a209164" name="Default" comment="Add FileSuffix.py">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Learning/K_RegularExpression.py" afterPath="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spy/Qiushibaike.py" afterPath="$PROJECT_DIR$/Spy/Qiushibaike.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,6 +28,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="D_Function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/D_Function.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -28,21 +36,39 @@
               <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="8" />
               <folding>
                 <marker date="1515068339641" expanded="true" signature="2000:2014" ph="..." />
+=======
+      <file leaf-file-name="FileSuffix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HAHAHAH/FileSuffix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="G_Closure&amp;Decorator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/G_Closure&amp;Decorator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2030">
               <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+=======
+      <file leaf-file-name="Urllib&amp;Urllib2&amp;Cookielib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spy/Urllib&amp;Urllib2&amp;Cookielib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="H_ListProduction&amp;Generator&amp;Iterator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,11 +84,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="986">
               <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+=======
+      <file leaf-file-name="K_RegularExpression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/K_RegularExpression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="23" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="L_Json&amp;Pickle&amp;Shelve.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Learning/L_Json&amp;Pickle&amp;Shelve.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,15 +105,31 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="I_Time&amp;Random.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/I_Time&amp;Random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="L_JsonByString.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/L_JsonByString.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="J_Module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/J_Module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
@@ -88,40 +138,64 @@
       <file leaf-file-name="L_JsonByjson.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/L_JsonByjson.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+            <state relative-caret-position="63">
+              <caret line="50" column="65" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="L_FuncByPickle.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning/L_FuncByPickle.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="G_Closure&amp;Decorator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/G_Closure&amp;Decorator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="I_Time&amp;Random.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/I_Time&amp;Random.py">
+      <file leaf-file-name="Qiushibaike.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spy/Qiushibaike.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="377">
               <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="479">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="K_RegularExpression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/K_RegularExpression.py">
+      <file leaf-file-name="A_Decoding&amp;Endoding.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/A_Decoding&amp;Endoding.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="3016">
               <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+=======
+            <state relative-caret-position="252">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
               <folding />
             </state>
           </provider>
@@ -144,7 +218,19 @@
       <find>froz</find>
       <find>*range</find>
       <find>*</find>
+<<<<<<< HEAD
       <find>init</find>
+=======
+      <find>request</find>
+      <find>install_opener</find>
+      <find>data</find>
+      <find>self</find>
+      <find>BIDUPSID</find>
+      <find>respCookieHandler</find>
+      <find>open</find>
+      <find>heardes</find>
+      <find>article block</find>
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,6 +260,7 @@
         <option value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
         <option value="$PROJECT_DIR$/Learning/L_Json.py" />
         <option value="$PROJECT_DIR$/Learning/J_Module.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Learning/L_Json&amp;Pickle.py" />
         <option value="$PROJECT_DIR$/Learning/L_Json&amp;Pickle&amp;Shelve.py" />
       </list>
@@ -184,6 +271,23 @@
     <option name="y" value="195" />
     <option name="width" value="1400" />
     <option name="height" value="999" />
+=======
+        <option value="$PROJECT_DIR$/HAHAHAH/FileSuffix.py" />
+        <option value="$PROJECT_DIR$/Spy/Urllib&amp;Urllib2.py" />
+        <option value="$PROJECT_DIR$/Spy/cookieFromBaidu" />
+        <option value="$PROJECT_DIR$/Spy/Urllib&amp;Urllib2&amp;Cookielib.py" />
+        <option value="$PROJECT_DIR$/HAHAHAH/Spy.py" />
+        <option value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+        <option value="$PROJECT_DIR$/Spy/Qiushibaike.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1413" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="920" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -203,8 +307,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,15 +329,29 @@
               <item name="PythonLibrary" type="462c0819:PsiDirectoryNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="Spy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< HEAD
     <property name="SearchEverywhereHistoryKey" value="(){&#9;null&#9;null" />
+=======
+    <property name="last_opened_file_path" value="D:/Software/Python27/python2.exe" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,26 +365,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.L_Json&amp;Pickle&amp;Shelve">
     <configuration name="J_Module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLibrary" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/J_Module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+=======
+  <component name="RunManager" selected="Python.Qiushibaike">
     <configuration name="K_RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,67 +383,117 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLibrary" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/J_Module.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="K_RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Qiushibaike" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLibrary" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/K_RegularExpression.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spy/Qiushibaike.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+<<<<<<< HEAD
     <configuration name="L_Json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Spy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HAHAHAH" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLibrary" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="D:\PythonLibrary\Learning\L_Json&amp;Pickle&amp;Shelve.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HAHAHAH/Spy.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="L_Json&amp;Pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Urllib&amp;Urllib2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLibrary" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="D:\PythonLibrary\Learning\L_Json&amp;Pickle&amp;Shelve.py" />
+=======
+      <option name="SCRIPT_NAME" value="D:\Library\PythonLibrary\Spy\Urllib&amp;Urllib2&amp;Cookielib.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="L_Json&amp;Pickle&amp;Shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Urllib&amp;Urllib2&amp;Cookielib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLibrary" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/L_Json&amp;Pickle&amp;Shelve.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spy/Urllib&amp;Urllib2&amp;Cookielib.py" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.J_Module" />
       <item index="1" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
       <item index="2" class="java.lang.String" itemvalue="Python.L_Json" />
@@ -349,6 +507,21 @@
         <item index="2" class="java.lang.String" itemvalue="Python.J_Module" />
         <item index="3" class="java.lang.String" itemvalue="Python.L_Json" />
         <item index="4" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Urllib&amp;Urllib2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Urllib&amp;Urllib2&amp;Cookielib" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Spy" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Qiushibaike" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Qiushibaike" />
+        <item index="1" class="java.lang.String" itemvalue="Python.K_RegularExpression" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Urllib&amp;Urllib2&amp;Cookielib" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Spy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Urllib&amp;Urllib2" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +539,14 @@
       <option name="presentableId" value="Default" />
       <updated>1514890367229</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add FileSuffix.py">
+      <created>1515569422953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515569422953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -378,6 +559,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17651694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -390,6 +572,22 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-1448" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21418338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828686" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828686" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12083333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -402,6 +600,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add FileSuffix.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FileSuffix.py" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -409,6 +611,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Learning/E_Hign-orderFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -438,6 +641,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
     <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1421">
@@ -456,19 +661,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1508">
           <caret line="52" column="97" lean-forward="false" selection-start-line="52" selection-start-column="95" selection-end-line="52" selection-end-column="97" />
-          <folding>
-            <marker date="1515068339641" expanded="true" signature="2000:2014" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py" />
     <entry file="file://$PROJECT_DIR$/Learning/B_File.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -480,6 +677,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -515,9 +713,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+=======
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Translator.py" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/ans.txt" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoHeader" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
     <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2407">
@@ -529,19 +734,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2494">
           <caret line="86" column="13" lean-forward="false" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-          <folding>
-            <marker date="1515068339641" expanded="true" signature="2000:2014" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py" />
     <entry file="file://$PROJECT_DIR$/Learning/A_Decoding&amp;Endoding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -549,34 +746,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoHeader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/Translator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoHeader" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Translator.py" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
     <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2407">
@@ -588,19 +761,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2755">
           <caret line="95" column="47" lean-forward="false" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
-          <folding>
-            <marker date="1515068339641" expanded="true" signature="2000:2014" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py" />
     <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2407">
@@ -608,110 +773,202 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://Q:/Python35/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1303">
-          <caret line="175" column="64" lean-forward="true" selection-start-line="175" selection-start-column="64" selection-end-line="175" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Q:/Python35/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1858">
-          <caret line="752" column="4" lean-forward="false" selection-start-line="752" selection-start-column="4" selection-end-line="752" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/ans.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoHeader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/Translator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/B_File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/A_Decoding&amp;Endoding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://Q:/Python35/Lib/urllib/request.py" />
+    <entry file="file://Q:/Python35/Lib/urllib/parse.py" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/ans.txt" />
     <entry file="file://$PROJECT_DIR$/Learning/C_Summary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
+<<<<<<< HEAD
+        <state relative-caret-position="2407">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+=======
+        <state relative-caret-position="759">
           <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/F_Built-inFunction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
+        <state relative-caret-position="828">
           <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/E_Hign-orderFunction.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py" />
+    <entry file="file://$PROJECT_DIR$/Learning/D_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2407">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+=======
+        <state relative-caret-position="19">
+          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/B_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Software/Python35/Lib/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Translator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/YoudaoHeader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Software/Python35/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="265" column="8" lean-forward="false" selection-start-line="265" selection-start-column="8" selection-end-line="265" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Software/Python27/Lib/urllib2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-848">
+          <caret line="413" column="19" lean-forward="true" selection-start-line="413" selection-start-column="19" selection-end-line="413" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spy/cookieFromBaidu" />
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/Spy.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="493">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+=======
+        <state relative-caret-position="168">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HAHAHAH/FileSuffix.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="567">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+=======
+        <state relative-caret-position="0">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spy/Urllib&amp;Urllib2&amp;Cookielib.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2079">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+=======
+        <state relative-caret-position="252">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/J_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2268">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+=======
+        <state relative-caret-position="434">
+          <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+          <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="315">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+=======
+        <state relative-caret-position="63">
+          <caret line="50" column="65" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/G_Closure&amp;Decorator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2030">
+        <state relative-caret-position="434">
           <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+          <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/I_Time&amp;Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Time&amp;Random.py" />
-    <entry file="file://$PROJECT_DIR$/Learning/H_ListProduction&amp;Generator&amp;Iterator.py">
+    <entry file="file://$PROJECT_DIR$/Learning/A_Decoding&amp;Endoding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="50" column="65" lean-forward="false" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+        <state relative-caret-position="252">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -752,12 +1009,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/K_RegularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="3016">
           <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+=======
+        <state relative-caret-position="376">
+          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="23" />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Learning/J_Module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -783,8 +1046,38 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="253" column="53" lean-forward="true" selection-start-line="253" selection-start-column="53" selection-end-line="253" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spy/Qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+>>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
