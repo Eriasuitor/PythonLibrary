@@ -103,5 +103,4 @@ def f1():
     print("f1a:", a)
     print("f1b:", b)
 
-
 f1()

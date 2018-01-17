@@ -1,5 +1,4 @@
 import re
-<<<<<<< HEAD
 # .
 print(re.findall('Lory si so handsome', 'Lory si so handsome so'))
 print(re.findall('L..y', 'Lory si so handsome so'))
@@ -103,7 +102,7 @@ print(re.search('a..b', 'asdasaxcbdasdbsd').span())
 def func():
     i = 5
     print('Hello, ' + str(i))
-=======
+
 # # .
 # print(re.findall('Lory si so handsome', 'Lory si so handsome so'))
 # print(re.findall('L..y', 'Lory si so handsome so'))
@@ -222,4 +221,3 @@ def func():
 # Retuen (.start('space'), .end('space'))
 
 # re.finditer() use to match onr by one with iterator
->>>>>>> 5fbbba7415f29cc74730dbc6890b0f8c5fc84967
