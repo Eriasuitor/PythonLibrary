@@ -221,3 +221,19 @@ def func():
 # Retuen (.start('space'), .end('space'))
 
 # re.finditer() use to match onr by one with iterator
+
+'''
+re 所定义的 flag 包括：
+
+re.I 忽略大小写
+
+re.L 表示特殊字符集 \w, \W, \b, \B, \s, \S 依赖于当前环境
+
+re.M 多行模式
+
+re.S 即为’ . ’并且包括换行符在内的任意字符（’ . ’不包括换行符）
+
+re.U 表示特殊字符集 \w, \W, \b, \B, \d, \D, \s, \S 依赖于 Unicode 字符属性数据库
+
+re.X 为了增加可读性，忽略空格和’ # ’后面的注释
+'''

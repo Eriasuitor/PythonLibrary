@@ -14,8 +14,8 @@ f.flush()
 print("abc", end='', flush=True)
 f.truncate()    # What's this? Google it.
 f.close()
-with open("1.txt", 'r') as f_read, open("2.txt, 'w'") as f_write:
-    for line in f_read
+with open("1.txt", 'r') as f_read, open("2.txt", 'w') as f_write:
+    for line in f_read:
         f_write.write(line)
 
 
