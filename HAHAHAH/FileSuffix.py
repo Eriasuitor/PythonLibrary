@@ -15,23 +15,31 @@ for file in files:
 print(urls)
 '''
 
-
+exceptions = ['Debug', 'bin', '.vs', '.git', '.nuget']
 def search_all_files(path):
     folders = os.listdir(path)
     for folder in folders:
+        if folder in exceptions:
+            continue
         if os.path.isdir(os.path.join(path, folder)):
             search_all_files(os.path.join(path, folder))
         else:
+            if(compiledRe.search(folder)):
+                print('Filed: ' + os.path.join(path, folder))
             with open(os.path.join(path, folder), 'rb') as f:
                 result = compiledRe.search(str(f.read()))
                 if (result is not None):
-                    print('Finded in: ' + os.path.join(path, folder))
-                    print(result.group())
+                    print('Finded: ' + os.path.join(path, folder))
+                    # print(result.group())
 
 path = input('Welcome, input the path you want to search:')
-if(path == ''):
+if path == '1':
     path = r'D:\trgit2\3PL\Portal\src'
-# r'D:\trgit2\3PL\Portal\src':''
+elif path == '2':
+    path = r'D:\trgit2\3PL\Portal-API'
+else:
+    pass
+print(path)
 compiledRe = re.compile(input('And then, input a regular expression:'))
 
 folders = os.listdir(path)
