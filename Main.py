@@ -17,15 +17,15 @@
 # print(type(a))
 
 while True:
-    get = input()
+    get = raw_input()
     gets = [int(i) for i in get.split()]
     envelopes = []
     for i in range(gets[0]):
-        envelopeString = input()
+        envelopeString = raw_input()
         envelope = [int(i) for i in envelopeString.split()]
         if(envelope[0] < gets[1] or envelope[1] < gets[2]):
             continue
-        envelopes.append(envelope + [i + 1])
+        envelopes.append(envelope + [i])
     envelopes = sorted(envelopes, key = lambda i: i[0])
     envelopes.insert(0, [gets[1], gets[2], 0])
     ans = [[0, []]]
@@ -41,4 +41,4 @@ while True:
             maxI = i
 
     print(ans[maxI][0])
-    print(' '.join(str(i) for i in ans[maxI][1]))
+    print(' '.join(str(int(i) - 1) for i in ans[maxI][1]))
