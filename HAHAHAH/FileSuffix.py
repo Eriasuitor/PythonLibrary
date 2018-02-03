@@ -19,9 +19,7 @@ exceptions = ['Debug', 'bin', '.vs', '.git', '.nuget']
 def search_all_files(path):
     folders = os.listdir(path)
     for folder in folders:
-        print(folder)
         if folder in exceptions:
-            print('Pass')
             continue
         if os.path.isdir(os.path.join(path, folder)):
             search_all_files(os.path.join(path, folder))
