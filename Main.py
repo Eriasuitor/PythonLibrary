@@ -79,54 +79,66 @@
 # print '->'.join(str(i) for i in tot) + '(' + str(ans[minI][4]) + ')'
 #
 
-# countStr = '{2,6,5,6,7,1}'
-# valueStr = '{567,101,123,465,108,986}'
-# # countStr = raw_input()
-# # valueStr = raw_input()
-#
-# count = [int(i) for i in countStr[1: -1].split(',')]
-# value = [int(i) for i in valueStr[1: -1].split(',')]
-#
-# totPower = 0
-# for x, y in zip(count, value):
-#     totPower += x * y
-# print totPower
-#
-# ans = [0] * (totPower / 2)
-# ans.insert(0, 1)
-# for k in range(count.__len__()):
-#     for i in range(ans.__len__() - 1, 0, -1):
-#         for j in range(1, i / value[k] + 1):
-#             ans[i] += ans[i - value[k] * j]
-#             if(ans[i - value[k] * j] != 0):
-#                 print k, i, j
-#     print ans
-# print ans[-1]
+countStr = '{44,954,123,54}'
+valueStr = '{23,4,678,123}'
+countStr = raw_input()
+valueStr = raw_input()
 
+count = [int(i) for i in countStr[1: -1].split(',')]
+value = [int(i) for i in valueStr[1: -1].split(',')]
 
-def isA(a):
-    i = 2
-    j = a / 2 + 1
-    while i <= j:
-        if a % i == 0:
-            return False
-        i += 1
+totPower = 0
+dic = {}
+for x, y in zip(count, value):
+    totPower += x * y
+    if y in dic:
+        dic.update({y: x + dic[y]})
     else:
-        return True
-
-getString = raw_input()
-gets = [int(x) for x in getString.split()]
-
-
-ans = []
-while gets[0] <= gets[1]:
-    if isA(gets[0]):
-        if isA(gets[0] + 2 || gets):
-
-    gets[0] += 1
-
-print ans
-if ans.__len__() == 0:
-    print 'no'
+        dic.update({y: x})
+print(dic)
+if totPower % 2 == 1:
+    print(0)
 else:
-    ' '.join([str[i] for i in ans])
+    ans = [0] * (totPower / 2)
+    ans.insert(0, 1)
+    print(ans.__len__())
+
+    for k, k2 in dic.items():
+        i = ans.__len__() - 1
+        while(i > 0):
+            j = 1
+            mi = min(k2, i / k) + 1
+            while(j < mi):
+                ans[i] += ans[i - k * j]
+                j += 1
+            i-=1
+
+    print ans[-1]
+
+#
+# def isA(a):
+#     i = 2
+#     j = a / 2 + 1
+#     while i <= j:
+#         if a % i == 0:
+#             return False
+#         i += 1
+#     else:
+#         return True
+#
+# getString = raw_input()
+# gets = [int(x) for x in getString.split()]
+#
+#
+# ans = []
+# while gets[0] <= gets[1]:
+#     if isA(gets[0]):
+#         if isA(gets[0] + 2 || gets):
+#
+#     gets[0] += 1
+#
+# print ans
+# if ans.__len__() == 0:
+#     print 'no'
+# else:
+#     ' '.join([str[i] for i in ans])
