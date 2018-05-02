@@ -25,11 +25,11 @@ def search_all_files(path):
             search_all_files(os.path.join(path, folder))
         else:
             if(compiledRe.search(folder)):
-                print('Filed: ' + os.path.join(path, folder))
+                print('Found file: ' + os.path.join(path, folder))
             with open(os.path.join(path, folder), 'rb') as f:
                 result = compiledRe.search(str(f.read()))
                 if (result is not None):
-                    print('Finded: ' + os.path.join(path, folder))
+                    print('Found in file: ' + os.path.join(path, folder))
                     # print(result.group())
 
 path = input('Welcome, input the path you want to search:')
@@ -39,8 +39,7 @@ elif path == '2':
     path = r'D:\trgit2\3PL\Portal-API'
 else:
     pass
-print(path)
 compiledRe = re.compile(input('And then, input a regular expression:'))
-
+print('Start to scanning path: ', path)
 folders = os.listdir(path)
 search_all_files(path)
