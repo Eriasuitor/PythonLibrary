@@ -1,0 +1,29 @@
+sudo env PATH=$PATH  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+  1 [common]
+  2 secret_id = AKIDFRB9tfB8rhAKk3Qo9vVInPxt1L3iezp5                                     
+  3 secret_key = X4a8RRal0Opaw1XaGP30Unh55t6K1XQd
+  4 bucket = cgw-1251023547
+  5 region = ap-guangzhou
+  6 max_thread = 10
+  7 part_size = 5
+
+root@10.10.4.86 123456
+
+cghb_publish
+
+jumper@10.10.2.51 
+
+go cgw
+
+go cgw_shenhe
+
+配置 ngnix
+
+reload ngix
+
+curl
+
+idev@10.10.2.13:/home/idev/sources/caigehongbao/backend
+
+
