@@ -1,0 +1,343 @@
+{"Id":"3","Title":[{"Title":"桑","IsSign":0},{"Title":"梓","IsSign":1}],"Answer":[{"Id":"","Answer":"zǐ"},{"Id":"","Answer":"xīn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"7","Title":[{"Title":"纨","IsSign":0},{"Title":"绔","IsSign":1}],"Answer":[{"Id":"","Answer":"kù"},{"Id":"","Answer":"kuà"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"8","Title":[{"Title":"殷","IsSign":1},{"Title":"红","IsSign":0}],"Answer":[{"Id":"","Answer":"yīn"},{"Id":"","Answer":"yān"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"11","Title":[{"Title":"胴","IsSign":1},{"Title":"体","IsSign":0}],"Answer":[{"Id":"","Answer":"tóng"},{"Id":"","Answer":"dòng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"12","Title":[{"Title":"断","IsSign":0},{"Title":"弦","IsSign":1}],"Answer":[{"Id":"","Answer":"xián"},{"Id":"","Answer":"xuán"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"16","Title":[{"Title":"恫","IsSign":0},{"Title":"吓","IsSign":1}],"Answer":[{"Id":"","Answer":"hè"},{"Id":"","Answer":"xià"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"30","Title":[{"Title":"墨","IsSign":0},{"Title":"翟","IsSign":1}],"Answer":[{"Id":"","Answer":"zhái"},{"Id":"","Answer":"dí"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"36","Title":[{"Title":"掺","IsSign":0},{"Title":"和","IsSign":1}],"Answer":[{"Id":"","Answer":"he"},{"Id":"","Answer":"huo"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"45","Title":[{"Title":"扎","IsSign":1},{"Title":"染","IsSign":0}],"Answer":[{"Id":"","Answer":"zā"},{"Id":"","Answer":"zhā"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"46","Title":[{"Title":"躯","IsSign":0},{"Title":"壳","IsSign":1}],"Answer":[{"Id":"","Answer":"ké"},{"Id":"","Answer":"qiào"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"52","Title":[{"Title":"女","IsSign":0},{"Title":"红","IsSign":1}],"Answer":[{"Id":"","Answer":"hóng"},{"Id":"","Answer":"gōng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"54","Title":[{"Title":"宫","IsSign":0},{"Title":"钥","IsSign":1}],"Answer":[{"Id":"","Answer":"yuè"},{"Id":"","Answer":"yào"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"55","Title":[{"Title":"参","IsSign":1},{"Title":"差","IsSign":0}],"Answer":[{"Id":"","Answer":"cān"},{"Id":"","Answer":"cēn"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"57","Title":[{"Title":"掉","IsSign":0},{"Title":"色","IsSign":1}],"Answer":[{"Id":"","Answer":"sè"},{"Id":"","Answer":"shǎi"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"58","Title":[{"Title":"悲","IsSign":0},{"Title":"恸","IsSign":1}],"Answer":[{"Id":"","Answer":"dòng"},{"Id":"","Answer":"tòng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"60","Title":[{"Title":"负","IsSign":0},{"Title":"荆","IsSign":1}],"Answer":[{"Id":"","Answer":"jīng"},{"Id":"","Answer":"jīn"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"62","Title":[{"Title":"角","IsSign":1},{"Title":"色","IsSign":0}],"Answer":[{"Id":"","Answer":"jiǎo"},{"Id":"","Answer":"jué"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"71","Title":[{"Title":"坐","IsSign":0},{"Title":"骑","IsSign":1}],"Answer":[{"Id":"","Answer":"qí"},{"Id":"","Answer":"jì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"72","Title":[{"Title":"蓦","IsSign":1},{"Title":"然","IsSign":0}],"Answer":[{"Id":"","Answer":"mù"},{"Id":"","Answer":"mò"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"77","Title":[{"Title":"莎","IsSign":1},{"Title":"草","IsSign":0}],"Answer":[{"Id":"","Answer":"shā"},{"Id":"","Answer":"suō"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"100","Title":[{"Title":"吱","IsSign":1},{"Title":"声","IsSign":0}],"Answer":[{"Id":"","Answer":"zhī"},{"Id":"","Answer":"zī"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"102","Title":[{"Title":"朱","IsSign":0},{"Title":"棣","IsSign":1}],"Answer":[{"Id":"","Answer":"dì"},{"Id":"","Answer":"lì"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"106","Title":[{"Title":"剽","IsSign":1},{"Title":"悍","IsSign":0}],"Answer":[{"Id":"","Answer":"piāo"},{"Id":"","Answer":"biāo"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"112","Title":[{"Title":"属","IsSign":1},{"Title":"文","IsSign":0}],"Answer":[{"Id":"","Answer":"shǔ"},{"Id":"","Answer":"zhǔ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"113","Title":[{"Title":"沓","IsSign":1},{"Title":"子","IsSign":0}],"Answer":[{"Id":"","Answer":"tà"},{"Id":"","Answer":"dá"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"117","Title":[{"Title":"秘","IsSign":1},{"Title":"鲁","IsSign":0}],"Answer":[{"Id":"","Answer":"mì"},{"Id":"","Answer":"bì"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"120","Title":[{"Title":"酗","IsSign":1},{"Title":"酒","IsSign":0}],"Answer":[{"Id":"","Answer":"xiōng"},{"Id":"","Answer":"xù"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"122","Title":[{"Title":"沌","IsSign":1},{"Title":"口","IsSign":0}],"Answer":[{"Id":"","Answer":"zhuàn"},{"Id":"","Answer":"tún"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"125","Title":[{"Title":"纶","IsSign":1},{"Title":"巾","IsSign":0}],"Answer":[{"Id":"","Answer":"guān"},{"Id":"","Answer":"lún"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"133","Title":[{"Title":"塑","IsSign":1},{"Title":"料","IsSign":0}],"Answer":[{"Id":"","Answer":"suò"},{"Id":"","Answer":"sù"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"134","Title":[{"Title":"单","IsSign":1},{"Title":"于","IsSign":0}],"Answer":[{"Id":"","Answer":"dān"},{"Id":"","Answer":"chán"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"137","Title":[{"Title":"霓","IsSign":0},{"Title":"裳","IsSign":1}],"Answer":[{"Id":"","Answer":"shāng"},{"Id":"","Answer":"cháng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"148","Title":[{"Title":"偌","IsSign":1},{"Title":"大","IsSign":0}],"Answer":[{"Id":"","Answer":"ruò"},{"Id":"","Answer":"nuò"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"153","Title":[{"Title":"待","IsSign":1},{"Title":"在","IsSign":0}],"Answer":[{"Id":"","Answer":" dāi"},{"Id":"","Answer":"dài"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"158","Title":[{"Title":"鸵","IsSign":0},{"Title":"鸟","IsSign":1}],"Answer":[{"Id":"","Answer":"niǎo"},{"Id":"","Answer":"liáo"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"161","Title":[{"Title":"枪","IsSign":0},{"Title":"杆","IsSign":1}],"Answer":[{"Id":"","Answer":" ɡǎn"},{"Id":"","Answer":"ɡān"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"162","Title":[{"Title":"蛇","IsSign":1},{"Title":"莓","IsSign":0}],"Answer":[{"Id":"","Answer":"shé"},{"Id":"","Answer":"xié"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"163","Title":[{"Title":"假","IsSign":1},{"Title":"冒","IsSign":0}],"Answer":[{"Id":"","Answer":"jiàn"},{"Id":"","Answer":"jiǎ  "}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"164","Title":[{"Title":"冷","IsSign":0},{"Title":"藏","IsSign":1}],"Answer":[{"Id":"","Answer":" cánɡ"},{"Id":"","Answer":" zànɡ"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"166","Title":[{"Title":"蟒","IsSign":1},{"Title":"蛇","IsSign":0}],"Answer":[{"Id":"","Answer":"mǎng"},{"Id":"","Answer":"bàn"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"168","Title":[{"Title":"长","IsSign":1},{"Title":"沙","IsSign":0}],"Answer":[{"Id":"","Answer":"cháng"},{"Id":"","Answer":"qiáng"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"171","Title":[{"Title":"奶","IsSign":1},{"Title":"牛","IsSign":0}],"Answer":[{"Id":"","Answer":"nǎi"},{"Id":"","Answer":"lái"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"173","Title":[{"Title":"狼","IsSign":1},{"Title":"狗","IsSign":0}],"Answer":[{"Id":"","Answer":"náng"},{"Id":"","Answer":"láng"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"179","Title":[{"Title":"蛛","IsSign":1},{"Title":"丝","IsSign":0}],"Answer":[{"Id":"","Answer":"jū"},{"Id":"","Answer":"zhū"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"182","Title":[{"Title":"蝴","IsSign":1},{"Title":"蝶","IsSign":0}],"Answer":[{"Id":"","Answer":"hú"},{"Id":"","Answer":"fú"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"185","Title":[{"Title":"八","IsSign":1},{"Title":"月","IsSign":0}],"Answer":[{"Id":"","Answer":"pā"},{"Id":"","Answer":"bā"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"187","Title":[{"Title":"工","IsSign":0},{"Title":"人","IsSign":1}],"Answer":[{"Id":"","Answer":"rén"},{"Id":"","Answer":"yín"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"193","Title":[{"Title":"人","IsSign":1},{"Title":"口","IsSign":0}],"Answer":[{"Id":"","Answer":"néng"},{"Id":"","Answer":"rén"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"195","Title":[{"Title":"是","IsSign":1},{"Title":"的","IsSign":0}],"Answer":[{"Id":"","Answer":"shì"},{"Id":"","Answer":"xì"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"196","Title":[{"Title":"狸","IsSign":1},{"Title":"猫","IsSign":0}],"Answer":[{"Id":"","Answer":"lí"},{"Id":"","Answer":"ní"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"197","Title":[{"Title":"嚼","IsSign":1},{"Title":"舌","IsSign":0}],"Answer":[{"Id":"","Answer":"jiáo"},{"Id":"","Answer":"jué"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"200","Title":[{"Title":"那","IsSign":1},{"Title":"个","IsSign":0}],"Answer":[{"Id":"","Answer":"nà"},{"Id":"","Answer":"là"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"201","Title":[{"Title":"瑰","IsSign":1},{"Title":"宝","IsSign":0}],"Answer":[{"Id":"","Answer":"guì"},{"Id":"","Answer":"guī"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"204","Title":[{"Title":"笼","IsSign":1},{"Title":"络","IsSign":0}],"Answer":[{"Id":"","Answer":"lóng"},{"Id":"","Answer":"lǒng"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"207","Title":[{"Title":"落","IsSign":1},{"Title":"下","IsSign":0}],"Answer":[{"Id":"","Answer":"lào"},{"Id":"","Answer":"là"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"212","Title":[{"Title":"玩","IsSign":0},{"Title":"弄","IsSign":1}],"Answer":[{"Id":"","Answer":"lòng"},{"Id":"","Answer":"nòng"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"214","Title":[{"Title":"橘","IsSign":1},{"Title":"子","IsSign":0}],"Answer":[{"Id":"","Answer":"jú"},{"Id":"","Answer":"jié"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"215","Title":[{"Title":"仆","IsSign":1},{"Title":"从","IsSign":0}],"Answer":[{"Id":"","Answer":"pú"},{"Id":"","Answer":"pū"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"217","Title":[{"Title":"柿","IsSign":1},{"Title":"子","IsSign":0}],"Answer":[{"Id":"","Answer":"sì"},{"Id":"","Answer":"shì"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"218","Title":[{"Title":"木","IsSign":1},{"Title":"瓜","IsSign":0}],"Answer":[{"Id":"","Answer":"mò"},{"Id":"","Answer":"mù"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"221","Title":[{"Title":"骨","IsSign":0},{"Title":"髓","IsSign":1}],"Answer":[{"Id":"","Answer":"suǐ"},{"Id":"","Answer":"suí"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"227","Title":[{"Title":"剔","IsSign":1},{"Title":"透","IsSign":0}],"Answer":[{"Id":"","Answer":"tì"},{"Id":"","Answer":"tī"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"234","Title":[{"Title":"菲","IsSign":1},{"Title":"薄","IsSign":0}],"Answer":[{"Id":"","Answer":"fěi"},{"Id":"","Answer":"fēi"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"239","Title":[{"Title":"可","IsSign":1},{"Title":"爱","IsSign":0}],"Answer":[{"Id":"","Answer":"kě"},{"Id":"","Answer":"kuò"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"244","Title":[{"Title":"老","IsSign":0},{"Title":"虎","IsSign":1}],"Answer":[{"Id":"","Answer":"fǔ"},{"Id":"","Answer":"hǔ"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"249","Title":[{"Title":"女","IsSign":0},{"Title":"娲","IsSign":1}],"Answer":[{"Id":"","Answer":"wā"},{"Id":"","Answer":"guā"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"252","Title":[{"Title":"红","IsSign":0},{"Title":"杏","IsSign":1}],"Answer":[{"Id":"","Answer":"sè"},{"Id":"","Answer":"xìng"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"256","Title":[{"Title":"有","IsSign":1},{"Title":"劳","IsSign":0}],"Answer":[{"Id":"","Answer":"yòu"},{"Id":"","Answer":"yǒu"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"257","Title":[{"Title":"这","IsSign":1},{"Title":"些","IsSign":0}],"Answer":[{"Id":"","Answer":"zhè"},{"Id":"","Answer":"zhèi"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"258","Title":[{"Title":"大","IsSign":0},{"Title":"鲵","IsSign":1}],"Answer":[{"Id":"","Answer":"ér"},{"Id":"","Answer":"ní"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"260","Title":[{"Title":"蜥","IsSign":0},{"Title":"蜴","IsSign":1}],"Answer":[{"Id":"","Answer":"yì"},{"Id":"","Answer":"jì"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"266","Title":[{"Title":"蟋","IsSign":0},{"Title":"蟀","IsSign":1}],"Answer":[{"Id":"","Answer":"shuài"},{"Id":"","Answer":"sài"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"267","Title":[{"Title":"水","IsSign":0},{"Title":"蛭","IsSign":1}],"Answer":[{"Id":"","Answer":"zhì"},{"Id":"","Answer":"zì"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"271","Title":[{"Title":"着","IsSign":1},{"Title":"火","IsSign":0}],"Answer":[{"Id":"","Answer":"zháo"},{"Id":"","Answer":"zhāo"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"272","Title":[{"Title":"虾","IsSign":1},{"Title":"子","IsSign":0}],"Answer":[{"Id":"","Answer":"xiā"},{"Id":"","Answer":"hā"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"276","Title":[{"Title":"海","IsSign":0},{"Title":"星","IsSign":1}],"Answer":[{"Id":"","Answer":"xīn"},{"Id":"","Answer":"xīng"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"277","Title":[{"Title":"水","IsSign":1},{"Title":"母","IsSign":0}],"Answer":[{"Id":"","Answer":"shuǐ"},{"Id":"","Answer":"suí"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"280","Title":[{"Title":"海","IsSign":0},{"Title":"绵","IsSign":1}],"Answer":[{"Id":"","Answer":"mián"},{"Id":"","Answer":"miē"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"281","Title":[{"Title":"海","IsSign":0},{"Title":"参","IsSign":1}],"Answer":[{"Id":"","Answer":"shēn"},{"Id":"","Answer":"cān"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"282","Title":[{"Title":"和","IsSign":1},{"Title":"面","IsSign":0}],"Answer":[{"Id":"","Answer":"huó"},{"Id":"","Answer":"hè"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"283","Title":[{"Title":"恐","IsSign":0},{"Title":"龙","IsSign":1}],"Answer":[{"Id":"","Answer":"lóng"},{"Id":"","Answer":"nóng"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"284","Title":[{"Title":"山","IsSign":1},{"Title":"羊","IsSign":0}],"Answer":[{"Id":"","Answer":"shān"},{"Id":"","Answer":"sān"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"285","Title":[{"Title":"花","IsSign":0},{"Title":"猪","IsSign":1}],"Answer":[{"Id":"","Answer":"jū"},{"Id":"","Answer":"zhū"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"287","Title":[{"Title":"大","IsSign":1},{"Title":"象","IsSign":0}],"Answer":[{"Id":"","Answer":"dài"},{"Id":"","Answer":"dà"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"289","Title":[{"Title":"虎","IsSign":1},{"Title":"王","IsSign":0}],"Answer":[{"Id":"","Answer":"mó"},{"Id":"","Answer":"hǔ"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"290","Title":[{"Title":"豹","IsSign":1},{"Title":"子","IsSign":0}],"Answer":[{"Id":"","Answer":"bào"},{"Id":"","Answer":"sháo"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"292","Title":[{"Title":"吊","IsSign":1},{"Title":"兰","IsSign":0}],"Answer":[{"Id":"","Answer":"tiào"},{"Id":"","Answer":"diào"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"293","Title":[{"Title":"兰","IsSign":1},{"Title":"花","IsSign":0}],"Answer":[{"Id":"","Answer":"nán"},{"Id":"","Answer":"lán"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"298","Title":[{"Title":"还","IsSign":1},{"Title":"乡","IsSign":0}],"Answer":[{"Id":"","Answer":"huán"},{"Id":"","Answer":"hái"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"304","Title":[{"Title":"苫","IsSign":1},{"Title":"布","IsSign":0}],"Answer":[{"Id":"","Answer":"shàn"},{"Id":"","Answer":"zhān"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"305","Title":[{"Title":"中","IsSign":0},{"Title":"枢","IsSign":1}],"Answer":[{"Id":"","Answer":"qū"},{"Id":"","Answer":"shū"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"311","Title":[{"Title":"阡","IsSign":0},{"Title":"陌","IsSign":1}],"Answer":[{"Id":"","Answer":"bǎi"},{"Id":"","Answer":"mò"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"316","Title":[{"Title":"沉","IsSign":0},{"Title":"淀","IsSign":1}],"Answer":[{"Id":"","Answer":"dìnɡ"},{"Id":"","Answer":"diàn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"317","Title":[{"Title":"涮","IsSign":1},{"Title":"肉","IsSign":0}],"Answer":[{"Id":"","Answer":"shuàn"},{"Id":"","Answer":"shuā"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"326","Title":[{"Title":"愎","IsSign":1},{"Title":"谏","IsSign":0}],"Answer":[{"Id":"","Answer":"fù"},{"Id":"","Answer":"bì"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"327","Title":[{"Title":"日","IsSign":0},{"Title":"晷","IsSign":1}],"Answer":[{"Id":"","Answer":"ɡuǐ"},{"Id":"","Answer":"jiù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"330","Title":[{"Title":"渣","IsSign":0},{"Title":"滓","IsSign":1}],"Answer":[{"Id":"","Answer":"zǐ"},{"Id":"","Answer":"zǎi"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"333","Title":[{"Title":"关","IsSign":0},{"Title":"隘","IsSign":1}],"Answer":[{"Id":"","Answer":"ài"},{"Id":"","Answer":"yì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"334","Title":[{"Title":"不","IsSign":0},{"Title":"韪","IsSign":1}],"Answer":[{"Id":"","Answer":"wěi"},{"Id":"","Answer":"huì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"337","Title":[{"Title":"罪","IsSign":0},{"Title":"愆","IsSign":1}],"Answer":[{"Id":"","Answer":"qiān"},{"Id":"","Answer":"yǎn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"338","Title":[{"Title":"小","IsSign":0},{"Title":"狗","IsSign":1}],"Answer":[{"Id":"","Answer":"gǒu"},{"Id":"","Answer":"wāng"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"341","Title":[{"Title":"苦","IsSign":0},{"Title":"撑","IsSign":1}],"Answer":[{"Id":"","Answer":"chēnɡ"},{"Id":"","Answer":"zhǎnɡ"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"343","Title":[{"Title":"箧","IsSign":1},{"Title":"笥","IsSign":0}],"Answer":[{"Id":"","Answer":"qiè"},{"Id":"","Answer":"jiā"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"346","Title":[{"Title":"瞠","IsSign":1},{"Title":"然","IsSign":0}],"Answer":[{"Id":"","Answer":"chēnɡ"},{"Id":"","Answer":"tánɡ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"348","Title":[{"Title":"臀","IsSign":1},{"Title":"鳍","IsSign":0}],"Answer":[{"Id":"","Answer":"tún"},{"Id":"","Answer":"diàn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"353","Title":[{"Title":"烦","IsSign":0},{"Title":"懑","IsSign":1}],"Answer":[{"Id":"","Answer":"mǎn"},{"Id":"","Answer":"mèn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"362","Title":[{"Title":"沮","IsSign":1},{"Title":"遏","IsSign":0}],"Answer":[{"Id":"","Answer":"jǔ"},{"Id":"","Answer":"zǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"366","Title":[{"Title":"拂","IsSign":1},{"Title":"拭","IsSign":0}],"Answer":[{"Id":"","Answer":"fó "},{"Id":"","Answer":"fú"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"368","Title":[{"Title":"椰","IsSign":0},{"Title":"子","IsSign":1}],"Answer":[{"Id":"","Answer":"zǎi"},{"Id":"","Answer":"zǐ"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"369","Title":[{"Title":"观","IsSign":0},{"Title":"察","IsSign":1}],"Answer":[{"Id":"","Answer":"cá"},{"Id":"","Answer":"chá"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"371","Title":[{"Title":"谙","IsSign":1},{"Title":"习","IsSign":0}],"Answer":[{"Id":"","Answer":"yīn"},{"Id":"","Answer":"ān"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"372","Title":[{"Title":"西","IsSign":1},{"Title":"瓜","IsSign":0}],"Answer":[{"Id":"","Answer":"qī"},{"Id":"","Answer":"xī"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"373","Title":[{"Title":"盎","IsSign":1},{"Title":"然","IsSign":0}],"Answer":[{"Id":"","Answer":"yāng "},{"Id":"","Answer":"ànɡ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"374","Title":[{"Title":"凹","IsSign":1},{"Title":"陷","IsSign":0}],"Answer":[{"Id":"","Answer":"ōu"},{"Id":"","Answer":"āo"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"376","Title":[{"Title":"稗","IsSign":1},{"Title":"草","IsSign":0}],"Answer":[{"Id":"","Answer":"pí"},{"Id":"","Answer":"bài"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"382","Title":[{"Title":"乜","IsSign":1},{"Title":"斜","IsSign":0}],"Answer":[{"Id":"","Answer":"miē"},{"Id":"","Answer":"niè"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"385","Title":[{"Title":"孑","IsSign":0},{"Title":"孓","IsSign":1}],"Answer":[{"Id":"","Answer":"jié"},{"Id":"","Answer":"jué"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"389","Title":[{"Title":"地","IsSign":0},{"Title":"祇","IsSign":1}],"Answer":[{"Id":"","Answer":"zhī"},{"Id":"","Answer":"qí"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"391","Title":[{"Title":"衹","IsSign":1},{"Title":"管","IsSign":0}],"Answer":[{"Id":"","Answer":"zhǐ"},{"Id":"","Answer":"dī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"394","Title":[{"Title":"髦","IsSign":1},{"Title":"马","IsSign":0}],"Answer":[{"Id":"","Answer":"máo"},{"Id":"","Answer":"jì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"398","Title":[{"Title":"遽","IsSign":1},{"Title":"尔","IsSign":0}],"Answer":[{"Id":"","Answer":"jù"},{"Id":"","Answer":"zhuó"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"399","Title":[{"Title":"蹴","IsSign":1},{"Title":"鞠","IsSign":0}],"Answer":[{"Id":"","Answer":"cù"},{"Id":"","Answer":"cuì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"400","Title":[{"Title":"阒","IsSign":1},{"Title":"寂","IsSign":0}],"Answer":[{"Id":"","Answer":"qù"},{"Id":"","Answer":"xiù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"401","Title":[{"Title":"捭","IsSign":0},{"Title":"阖","IsSign":1}],"Answer":[{"Id":"","Answer":"kē "},{"Id":"","Answer":"hé"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"403","Title":[{"Title":"囹","IsSign":1},{"Title":"圄","IsSign":0}],"Answer":[{"Id":"","Answer":"líng"},{"Id":"","Answer":"lín"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"407","Title":[{"Title":"翳","IsSign":1},{"Title":"障","IsSign":0}],"Answer":[{"Id":"","Answer":"jí"},{"Id":"","Answer":"yì"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"408","Title":[{"Title":"啐","IsSign":1},{"Title":"酒","IsSign":0}],"Answer":[{"Id":"","Answer":"cuì"},{"Id":"","Answer":"cù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"409","Title":[{"Title":"山","IsSign":0},{"Title":"峁","IsSign":1}],"Answer":[{"Id":"","Answer":"māng "},{"Id":"","Answer":"mǎo"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"411","Title":[{"Title":"箜","IsSign":0},{"Title":"篌","IsSign":1}],"Answer":[{"Id":"","Answer":"háo"},{"Id":"","Answer":"hóu"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"414","Title":[{"Title":"踟","IsSign":1},{"Title":"蹰","IsSign":0}],"Answer":[{"Id":"","Answer":"chú"},{"Id":"","Answer":"chí"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"420","Title":[{"Title":"龃","IsSign":0},{"Title":"龉","IsSign":1}],"Answer":[{"Id":"","Answer":"yǔ"},{"Id":"","Answer":"wú"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"423","Title":[{"Title":"耄","IsSign":0},{"Title":"耋","IsSign":1}],"Answer":[{"Id":"","Answer":"dié"},{"Id":"","Answer":"diē "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"424","Title":[{"Title":"饕","IsSign":0},{"Title":"餮","IsSign":1}],"Answer":[{"Id":"","Answer":"tiè"},{"Id":"","Answer":"cán"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"425","Title":[{"Title":"痤","IsSign":0},{"Title":"疮","IsSign":1}],"Answer":[{"Id":"","Answer":"chuāng"},{"Id":"","Answer":"chuān"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"427","Title":[{"Title":"番","IsSign":0},{"Title":"薯","IsSign":1}],"Answer":[{"Id":"","Answer":"zhǔ"},{"Id":"","Answer":"shǔ"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"431","Title":[{"Title":"迤","IsSign":1},{"Title":"逦","IsSign":0}],"Answer":[{"Id":"","Answer":"yǐ"},{"Id":"","Answer":"yè"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"432","Title":[{"Title":"呷","IsSign":1},{"Title":"茶","IsSign":0}],"Answer":[{"Id":"","Answer":"xiā"},{"Id":"","Answer":"qià"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"435","Title":[{"Title":"肄","IsSign":1},{"Title":"业","IsSign":0}],"Answer":[{"Id":"","Answer":"yì"},{"Id":"","Answer":"sì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"440","Title":[{"Title":"髑","IsSign":1},{"Title":"髅","IsSign":0}],"Answer":[{"Id":"","Answer":"dú"},{"Id":"","Answer":"kū"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"456","Title":[{"Title":"拥","IsSign":0},{"Title":"趸","IsSign":1}],"Answer":[{"Id":"","Answer":"dǔn"},{"Id":"","Answer":"lěi"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"459","Title":[{"Title":"贲","IsSign":1},{"Title":"临","IsSign":0}],"Answer":[{"Id":"","Answer":"bì"},{"Id":"","Answer":"pēn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"464","Title":[{"Title":"厹","IsSign":1},{"Title":"矛","IsSign":0}],"Answer":[{"Id":"","Answer":"qiú"},{"Id":"","Answer":"qiǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"465","Title":[{"Title":"厽","IsSign":1},{"Title":"砢","IsSign":0}],"Answer":[{"Id":"","Answer":"lěi"},{"Id":"","Answer":"lèi "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"466","Title":[{"Title":"厾","IsSign":1},{"Title":"玉","IsSign":0}],"Answer":[{"Id":"","Answer":"dú "},{"Id":"","Answer":"dū"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"468","Title":[{"Title":"暡","IsSign":0},{"Title":"叆","IsSign":1}],"Answer":[{"Id":"","Answer":"ài"},{"Id":"","Answer":"ái"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"469","Title":[{"Title":"叆","IsSign":0},{"Title":"叇","IsSign":1}],"Answer":[{"Id":"","Answer":"dāi"},{"Id":"","Answer":"dài"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"470","Title":[{"Title":"叚","IsSign":1},{"Title":"借","IsSign":0}],"Answer":[{"Id":"","Answer":"jià"},{"Id":"","Answer":"jiǎ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"471","Title":[{"Title":"叻","IsSign":1},{"Title":"女","IsSign":0}],"Answer":[{"Id":"","Answer":"lè"},{"Id":"","Answer":"lèi"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"472","Title":[{"Title":"吇","IsSign":1},{"Title":"吇","IsSign":0}],"Answer":[{"Id":"","Answer":"zī"},{"Id":"","Answer":" zǐ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"473","Title":[{"Title":"吚","IsSign":0},{"Title":"嚘","IsSign":1}],"Answer":[{"Id":"","Answer":"yòu"},{"Id":"","Answer":"yōu"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"474","Title":[{"Title":"郁","IsSign":0},{"Title":"吚","IsSign":1}],"Answer":[{"Id":"","Answer":"yì"},{"Id":"","Answer":"yī"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"476","Title":[{"Title":"吤","IsSign":1},{"Title":"吤","IsSign":0}],"Answer":[{"Id":"","Answer":"jiē"},{"Id":"","Answer":"jiè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"477","Title":[{"Title":"唝","IsSign":0},{"Title":"吥","IsSign":1}],"Answer":[{"Id":"","Answer":"bǔ"},{"Id":"","Answer":"bù"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"480","Title":[{"Title":"吷","IsSign":1},{"Title":"气","IsSign":0}],"Answer":[{"Id":"","Answer":"xuē"},{"Id":"","Answer":"xuè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"482","Title":[{"Title":"吺","IsSign":1},{"Title":"誻","IsSign":0}],"Answer":[{"Id":"","Answer":"dōu"},{"Id":"","Answer":"dòu"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"485","Title":[{"Title":"呟","IsSign":1},{"Title":"唤","IsSign":0}],"Answer":[{"Id":"","Answer":"xuán"},{"Id":"","Answer":"juǎn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"487","Title":[{"Title":"呪","IsSign":0},{"Title":"詈","IsSign":1}],"Answer":[{"Id":"","Answer":" lì"},{"Id":"","Answer":"lǐ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"488","Title":[{"Title":"呪","IsSign":1},{"Title":"祝","IsSign":0}],"Answer":[{"Id":"","Answer":"zhōu"},{"Id":"","Answer":"zhòu"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"489","Title":[{"Title":"嗫","IsSign":0},{"Title":"呫","IsSign":1}],"Answer":[{"Id":"","Answer":"tiē"},{"Id":"","Answer":"tiè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"493","Title":[{"Title":"呰","IsSign":0},{"Title":"窳","IsSign":1}],"Answer":[{"Id":"","Answer":"yú"},{"Id":"","Answer":"yǔ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"494","Title":[{"Title":"毁","IsSign":0},{"Title":"呰","IsSign":1}],"Answer":[{"Id":"","Answer":"zǐ"},{"Id":"","Answer":"zī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"495","Title":[{"Title":"呴","IsSign":1},{"Title":"嘘","IsSign":0}],"Answer":[{"Id":"","Answer":"hǒu"},{"Id":"","Answer":"hòu"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"496","Title":[{"Title":"呶","IsSign":1},{"Title":"呶","IsSign":0}],"Answer":[{"Id":"","Answer":"niǎo"},{"Id":"","Answer":"náo"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"497","Title":[{"Title":"呹","IsSign":1},{"Title":"肸","IsSign":0}],"Answer":[{"Id":"","Answer":"yì"},{"Id":"","Answer":"yī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"498","Title":[{"Title":"怒","IsSign":0},{"Title":"呺","IsSign":1}],"Answer":[{"Id":"","Answer":"háo"},{"Id":"","Answer":"hào"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"501","Title":[{"Title":"呿","IsSign":0},{"Title":"唫","IsSign":1}],"Answer":[{"Id":"","Answer":"yín"},{"Id":"","Answer":"yíng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"502","Title":[{"Title":"呿","IsSign":1},{"Title":"吟","IsSign":0}],"Answer":[{"Id":"","Answer":"qū"},{"Id":"","Answer":"qù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"503","Title":[{"Title":"咈","IsSign":1},{"Title":"咈","IsSign":0}],"Answer":[{"Id":"","Answer":"fú"},{"Id":"","Answer":"fù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"504","Title":[{"Title":"咉","IsSign":1},{"Title":"咽","IsSign":0}],"Answer":[{"Id":"","Answer":"yǎng"},{"Id":"","Answer":"yāng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"505","Title":[{"Title":"咍","IsSign":1},{"Title":"台","IsSign":0}],"Answer":[{"Id":"","Answer":"hāi"},{"Id":"","Answer":"hài"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"507","Title":[{"Title":"循","IsSign":0},{"Title":"咡","IsSign":1}],"Answer":[{"Id":"","Answer":"ěr"},{"Id":"","Answer":"èr"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"508","Title":[{"Title":"徒","IsSign":0},{"Title":"咢","IsSign":1}],"Answer":[{"Id":"","Answer":"è"},{"Id":"","Answer":"é"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"509","Title":[{"Title":"咥","IsSign":1},{"Title":"咥","IsSign":0}],"Answer":[{"Id":"","Answer":"xī"},{"Id":"","Answer":"zī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"511","Title":[{"Title":"咭","IsSign":1},{"Title":"咕","IsSign":0}],"Answer":[{"Id":"","Answer":"jí"},{"Id":"","Answer":"jī"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"513","Title":[{"Title":"说","IsSign":0},{"Title":"咲","IsSign":1}],"Answer":[{"Id":"","Answer":"xià"},{"Id":"","Answer":"xiào"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"515","Title":[{"Title":"咵","IsSign":1},{"Title":"白","IsSign":0}],"Answer":[{"Id":"","Answer":"kuā"},{"Id":"","Answer":"kuà"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"516","Title":[{"Title":"咶","IsSign":1},{"Title":"耳","IsSign":0}],"Answer":[{"Id":"","Answer":"huài"},{"Id":"","Answer":"guā"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"518","Title":[{"Title":"咺","IsSign":1},{"Title":"唏","IsSign":0}],"Answer":[{"Id":"","Answer":"xuān"},{"Id":"","Answer":"xūn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"523","Title":[{"Title":"逗","IsSign":0},{"Title":"哏","IsSign":1}],"Answer":[{"Id":"","Answer":"gén"},{"Id":"","Answer":"géng"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"524","Title":[{"Title":"哓","IsSign":1},{"Title":"舌","IsSign":0}],"Answer":[{"Id":"","Answer":"xiāo"},{"Id":"","Answer":"xiū"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"526","Title":[{"Title":"哕","IsSign":1},{"Title":"哕","IsSign":0}],"Answer":[{"Id":"","Answer":"huì"},{"Id":"","Answer":"huī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"528","Title":[{"Title":"哕","IsSign":0},{"Title":"喈","IsSign":1}],"Answer":[{"Id":"","Answer":"jiē"},{"Id":"","Answer":"jiè"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"533","Title":[{"Title":"噢","IsSign":1},{"Title":"哢","IsSign":0}],"Answer":[{"Id":"","Answer":"ō"},{"Id":"","Answer":"ōu"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"537","Title":[{"Title":"唼","IsSign":1},{"Title":"哫","IsSign":0}],"Answer":[{"Id":"","Answer":"shà"},{"Id":"","Answer":"qiē"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"538","Title":[{"Title":"哫","IsSign":1},{"Title":"訾","IsSign":0}],"Answer":[{"Id":"","Answer":"zú"},{"Id":"","Answer":"zū"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"539","Title":[{"Title":"哬","IsSign":1},{"Title":"哬","IsSign":0}],"Answer":[{"Id":"","Answer":"hē"},{"Id":"","Answer":"hè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"540","Title":[{"Title":"嗊","IsSign":1},{"Title":"嗃","IsSign":0}],"Answer":[{"Id":"","Answer":"gōng "},{"Id":"","Answer":"gòng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"541","Title":[{"Title":"哵","IsSign":1},{"Title":"哥","IsSign":0}],"Answer":[{"Id":"","Answer":"bō"},{"Id":"","Answer":"bā"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"544","Title":[{"Title":"铜","IsSign":0},{"Title":"哾","IsSign":1}],"Answer":[{"Id":"","Answer":"chuò"},{"Id":"","Answer":"chuō"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"545","Title":[{"Title":"慰","IsSign":0},{"Title":"唁","IsSign":1}],"Answer":[{"Id":"","Answer":"yàn"},{"Id":"","Answer":"yán "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"546","Title":[{"Title":"唂","IsSign":1},{"Title":"咕","IsSign":0}],"Answer":[{"Id":"","Answer":"gū"},{"Id":"","Answer":"gǔ "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"547","Title":[{"Title":"唃","IsSign":1},{"Title":"唃","IsSign":0}],"Answer":[{"Id":"","Answer":"gū"},{"Id":"","Answer":"gǔ "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"549","Title":[{"Title":"营","IsSign":0},{"Title":"唅","IsSign":1}],"Answer":[{"Id":"","Answer":"hán"},{"Id":"","Answer":"háng"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"550","Title":[{"Title":"示","IsSign":0},{"Title":"唆","IsSign":1}],"Answer":[{"Id":"","Answer":"shuō"},{"Id":"","Answer":"suō "}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"551","Title":[{"Title":"呜","IsSign":0},{"Title":"唈","IsSign":1}],"Answer":[{"Id":"","Answer":"yì"},{"Id":"","Answer":"yí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"552","Title":[{"Title":"唈","IsSign":0},{"Title":"僾","IsSign":1}],"Answer":[{"Id":"","Answer":"āi"},{"Id":"","Answer":"ài"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"553","Title":[{"Title":"唌","IsSign":1},{"Title":"唌","IsSign":0}],"Answer":[{"Id":"","Answer":"xián"},{"Id":"","Answer":"yán"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"556","Title":[{"Title":"吁","IsSign":0},{"Title":"唏","IsSign":1}],"Answer":[{"Id":"","Answer":"xī"},{"Id":"","Answer":"jí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"563","Title":[{"Title":"唢","IsSign":1},{"Title":"呐","IsSign":0}],"Answer":[{"Id":"","Answer":"suǒ"},{"Id":"","Answer":"xiāo"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"565","Title":[{"Title":"呼","IsSign":0},{"Title":"唤","IsSign":1}],"Answer":[{"Id":"","Answer":"huàn"},{"Id":"","Answer":"huà"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"567","Title":[{"Title":"唧","IsSign":1},{"Title":"筒","IsSign":0}],"Answer":[{"Id":"","Answer":"jī"},{"Id":"","Answer":"jì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"568","Title":[{"Title":"唪","IsSign":1},{"Title":"经","IsSign":0}],"Answer":[{"Id":"","Answer":"fěn"},{"Id":"","Answer":"fěng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"571","Title":[{"Title":"唯","IsSign":1},{"Title":"一","IsSign":0}],"Answer":[{"Id":"","Answer":"wéi "},{"Id":"","Answer":"wén"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"575","Title":[{"Title":"唴","IsSign":1},{"Title":"哴","IsSign":0}],"Answer":[{"Id":"","Answer":"qiàng"},{"Id":"","Answer":"qiāng "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"576","Title":[{"Title":"唵","IsSign":0},{"Title":"噆","IsSign":1}],"Answer":[{"Id":"","Answer":"zǎn"},{"Id":"","Answer":"zān"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"578","Title":[{"Title":"唶","IsSign":1},{"Title":"惋","IsSign":0}],"Answer":[{"Id":"","Answer":"jiē"},{"Id":"","Answer":"jiè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"581","Title":[{"Title":"唼","IsSign":1},{"Title":"唼","IsSign":0}],"Answer":[{"Id":"","Answer":"shàn"},{"Id":"","Answer":"shà"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"584","Title":[{"Title":"唿","IsSign":1},{"Title":"哨","IsSign":0}],"Answer":[{"Id":"","Answer":"hū"},{"Id":"","Answer":"huī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"587","Title":[{"Title":"雨","IsSign":1},{"Title":"衣","IsSign":0}],"Answer":[{"Id":"","Answer":"yǔ"},{"Id":"","Answer":"yūn"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"589","Title":[{"Title":"泥","IsSign":1},{"Title":"土","IsSign":0}],"Answer":[{"Id":"","Answer":"lǐ"},{"Id":"","Answer":"ní"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"590","Title":[{"Title":"绿","IsSign":1},{"Title":"地","IsSign":0}],"Answer":[{"Id":"","Answer":"lǜ"},{"Id":"","Answer":"lù"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"591","Title":[{"Title":"阿","IsSign":1},{"Title":"姨","IsSign":0}],"Answer":[{"Id":"","Answer":"ā"},{"Id":"","Answer":"ē"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"594","Title":[{"Title":"扒","IsSign":1},{"Title":"开","IsSign":0}],"Answer":[{"Id":"","Answer":"pá"},{"Id":"","Answer":"bā"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"595","Title":[{"Title":"蛤","IsSign":0},{"Title":"蚌","IsSign":1}],"Answer":[{"Id":"","Answer":"bàng"},{"Id":"","Answer":"bèng "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"596","Title":[{"Title":"薄","IsSign":1},{"Title":"饼","IsSign":0}],"Answer":[{"Id":"","Answer":"báo"},{"Id":"","Answer":"bò"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"600","Title":[{"Title":"开","IsSign":0},{"Title":"辟","IsSign":1}],"Answer":[{"Id":"","Answer":"bì"},{"Id":"","Answer":"pì"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"603","Title":[{"Title":"骠","IsSign":1},{"Title":"骑","IsSign":0}],"Answer":[{"Id":"","Answer":"biāo"},{"Id":"","Answer":"piào"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"611","Title":[{"Title":"很","IsSign":0},{"Title":"差","IsSign":1}],"Answer":[{"Id":"","Answer":"chà"},{"Id":"","Answer":"chāi"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"613","Title":[{"Title":"颤","IsSign":1},{"Title":"动","IsSign":0}],"Answer":[{"Id":"","Answer":"chàn"},{"Id":"","Answer":"zhàn"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"614","Title":[{"Title":"车","IsSign":1},{"Title":"辆","IsSign":0}],"Answer":[{"Id":"","Answer":"chē"},{"Id":"","Answer":"jū"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"622","Title":[{"Title":"单","IsSign":1},{"Title":"独","IsSign":0}],"Answer":[{"Id":"","Answer":"dān"},{"Id":"","Answer":"chán"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"625","Title":[{"Title":"首","IsSign":0},{"Title":"都","IsSign":1}],"Answer":[{"Id":"","Answer":"dū"},{"Id":"","Answer":"dōu"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"626","Title":[{"Title":"程","IsSign":0},{"Title":"度","IsSign":1}],"Answer":[{"Id":"","Answer":"dù"},{"Id":"","Answer":"duó"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"631","Title":[{"Title":"虾","IsSign":1},{"Title":"蟆","IsSign":0}],"Answer":[{"Id":"","Answer":"há"},{"Id":"","Answer":"xiā"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"632","Title":[{"Title":"道","IsSign":1},{"Title":"路","IsSign":0}],"Answer":[{"Id":"","Answer":"dào"},{"Id":"","Answer":"dǎn"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"643","Title":[{"Title":"价","IsSign":1},{"Title":"值","IsSign":0}],"Answer":[{"Id":"","Answer":"jie"},{"Id":"","Answer":"jià"}],"TimeLong":10,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"647","Title":[{"Title":"校","IsSign":1},{"Title":"场","IsSign":0}],"Answer":[{"Id":"","Answer":"xiào "},{"Id":"","Answer":"jiào"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"649","Title":[{"Title":"鲤","IsSign":1},{"Title":"鱼","IsSign":0}],"Answer":[{"Id":"","Answer":"lǐ"},{"Id":"","Answer":"nǐ"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"662","Title":[{"Title":"爷","IsSign":0},{"Title":"俩","IsSign":1}],"Answer":[{"Id":"","Answer":"liǎng"},{"Id":"","Answer":"liǎ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"664","Title":[{"Title":"庸","IsSign":0},{"Title":"碌","IsSign":1}],"Answer":[{"Id":"","Answer":"lù "},{"Id":"","Answer":"liù"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"666","Title":[{"Title":"绿","IsSign":1},{"Title":"林","IsSign":0}],"Answer":[{"Id":"","Answer":"lǜ"},{"Id":"","Answer":"lù"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"671","Title":[{"Title":"秘","IsSign":1},{"Title":"诀","IsSign":0}],"Answer":[{"Id":"","Answer":"mì"},{"Id":"","Answer":"bì"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"674","Title":[{"Title":"抹","IsSign":1},{"Title":"煞","IsSign":0}],"Answer":[{"Id":"","Answer":"mǒ"},{"Id":"","Answer":"mā"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"685","Title":[{"Title":"稽","IsSign":1},{"Title":"首","IsSign":0}],"Answer":[{"Id":"","Answer":"qǐ"},{"Id":"","Answer":"jī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"686","Title":[{"Title":"坚","IsSign":0},{"Title":"强","IsSign":1}],"Answer":[{"Id":"","Answer":"qiáng "},{"Id":"","Answer":"jiàng"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"689","Title":[{"Title":"色","IsSign":1},{"Title":"泽","IsSign":0}],"Answer":[{"Id":"","Answer":"sè"},{"Id":"","Answer":"sàng"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"691","Title":[{"Title":"唼","IsSign":1},{"Title":"咂","IsSign":0}],"Answer":[{"Id":"","Answer":"shā"},{"Id":"","Answer":" shà"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"693","Title":[{"Title":"啁","IsSign":0},{"Title":"啾","IsSign":1}],"Answer":[{"Id":"","Answer":"jiǔ"},{"Id":"","Answer":"jiū"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"701","Title":[{"Title":"抵","IsSign":0},{"Title":"啎","IsSign":1}],"Answer":[{"Id":"","Answer":"wǔ"},{"Id":"","Answer":"wù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"702","Title":[{"Title":"嘈","IsSign":0},{"Title":"啐","IsSign":1}],"Answer":[{"Id":"","Answer":"cuì"},{"Id":"","Answer":"suì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"705","Title":[{"Title":"啘","IsSign":1},{"Title":"呕","IsSign":0}],"Answer":[{"Id":"","Answer":"yuē"},{"Id":"","Answer":"yuè"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"706","Title":[{"Title":"啙","IsSign":1},{"Title":"败","IsSign":0}],"Answer":[{"Id":"","Answer":"zǐ"},{"Id":"","Answer":"zī "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"710","Title":[{"Title":"吡","IsSign":0},{"Title":"啶","IsSign":1}],"Answer":[{"Id":"","Answer":"dīng"},{"Id":"","Answer":"dìng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"711","Title":[{"Title":"不","IsSign":0},{"Title":"啻","IsSign":1}],"Answer":[{"Id":"","Answer":"zhì"},{"Id":"","Answer":"chì"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"713","Title":[{"Title":"啿","IsSign":1},{"Title":"啿","IsSign":0}],"Answer":[{"Id":"","Answer":"dàng"},{"Id":"","Answer":"dàn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"714","Title":[{"Title":"陬","IsSign":1},{"Title":"喁","IsSign":0}],"Answer":[{"Id":"","Answer":"zōu"},{"Id":"","Answer":"zòu"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"715","Title":[{"Title":"喁","IsSign":1},{"Title":"望","IsSign":0}],"Answer":[{"Id":"","Answer":"yōng"},{"Id":"","Answer":"yóng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"716","Title":[{"Title":"两","IsSign":0},{"Title":"喈","IsSign":1}],"Answer":[{"Id":"","Answer":"jiè"},{"Id":"","Answer":"jiē"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"720","Title":[{"Title":"喓","IsSign":0},{"Title":"喐","IsSign":1}],"Answer":[{"Id":"","Answer":"xù"},{"Id":"","Answer":"xū "}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"721","Title":[{"Title":"淹","IsSign":0},{"Title":"喒","IsSign":1}],"Answer":[{"Id":"","Answer":"zān"},{"Id":"","Answer":"zán"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"723","Title":[{"Title":"喓","IsSign":1},{"Title":"喓","IsSign":0}],"Answer":[{"Id":"","Answer":"yào"},{"Id":"","Answer":"yāo"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"724","Title":[{"Title":"喤","IsSign":1},{"Title":"聒","IsSign":0}],"Answer":[{"Id":"","Answer":"huāng"},{"Id":"","Answer":"huáng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"725","Title":[{"Title":"喾","IsSign":1},{"Title":"敕","IsSign":0}],"Answer":[{"Id":"","Answer":"kū"},{"Id":"","Answer":"kù"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"726","Title":[{"Title":"喿","IsSign":1},{"Title":"名","IsSign":0}],"Answer":[{"Id":"","Answer":"zāo"},{"Id":"","Answer":"zào"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"727","Title":[{"Title":"泣","IsSign":0},{"Title":"嗁","IsSign":1}],"Answer":[{"Id":"","Answer":"tī"},{"Id":"","Answer":"tí"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"728","Title":[{"Title":"嗃","IsSign":1},{"Title":"嗃","IsSign":0}],"Answer":[{"Id":"","Answer":"hē"},{"Id":"","Answer":"hè"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"730","Title":[{"Title":"嗋","IsSign":1},{"Title":"呷","IsSign":0}],"Answer":[{"Id":"","Answer":"xiē"},{"Id":"","Answer":"xié"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"731","Title":[{"Title":"嗌","IsSign":1},{"Title":"交","IsSign":0}],"Answer":[{"Id":"","Answer":"āi"},{"Id":"","Answer":"ài"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"732","Title":[{"Title":"西","IsSign":0},{"Title":"嗕","IsSign":1}],"Answer":[{"Id":"","Answer":"rù "},{"Id":"","Answer":"rǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"733","Title":[{"Title":"嗗","IsSign":1},{"Title":"突","IsSign":0}],"Answer":[{"Id":"","Answer":"wà"},{"Id":"","Answer":"wā"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"734","Title":[{"Title":"嗙","IsSign":1},{"Title":"喻","IsSign":0}],"Answer":[{"Id":"","Answer":"páng"},{"Id":"","Answer":"pǎng"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"735","Title":[{"Title":"嗛","IsSign":1},{"Title":"嗛","IsSign":0}],"Answer":[{"Id":"","Answer":"qiān "},{"Id":"","Answer":"qiǎn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"739","Title":[{"Title":"嘊","IsSign":1},{"Title":"嘊","IsSign":0}],"Answer":[{"Id":"","Answer":"ái"},{"Id":"","Answer":"āi"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"744","Title":[{"Title":"煞","IsSign":1},{"Title":"气","IsSign":0}],"Answer":[{"Id":"","Answer":"shà"},{"Id":"","Answer":"chà"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"748","Title":[{"Title":"什","IsSign":1},{"Title":"么","IsSign":0}],"Answer":[{"Id":"","Answer":"shén"},{"Id":"","Answer":"shí"}],"TimeLong":10,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"751","Title":[{"Title":"生","IsSign":0},{"Title":"熟","IsSign":1}],"Answer":[{"Id":"","Answer":"shóu"},{"Id":"","Answer":"shú"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"757","Title":[{"Title":"调","IsSign":1},{"Title":"笑","IsSign":0}],"Answer":[{"Id":"","Answer":"diào"},{"Id":"","Answer":"tiáo"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"759","Title":[{"Title":"阴","IsSign":1},{"Title":"晴","IsSign":0}],"Answer":[{"Id":"","Answer":"yīng"},{"Id":"","Answer":"yīn"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"761","Title":[{"Title":"请","IsSign":0},{"Title":"帖","IsSign":1}],"Answer":[{"Id":"","Answer":"tiě"},{"Id":"","Answer":"tě"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"764","Title":[{"Title":"委","IsSign":1},{"Title":"托","IsSign":0}],"Answer":[{"Id":"","Answer":"wō"},{"Id":"","Answer":"wěi"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"766","Title":[{"Title":"尉","IsSign":1},{"Title":"迟","IsSign":0}],"Answer":[{"Id":"","Answer":"wèi"},{"Id":"","Answer":"yù"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"771","Title":[{"Title":"反","IsSign":0},{"Title":"省","IsSign":1}],"Answer":[{"Id":"","Answer":" xǐn"},{"Id":"","Answer":"xǐng"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"773","Title":[{"Title":"削","IsSign":1},{"Title":"发","IsSign":0}],"Answer":[{"Id":"","Answer":"xiāo"},{"Id":"","Answer":"xuē"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"776","Title":[{"Title":"殷","IsSign":1},{"Title":"朝","IsSign":0}],"Answer":[{"Id":"","Answer":"yān"},{"Id":"","Answer":"yīn"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"777","Title":[{"Title":"咽","IsSign":1},{"Title":"喉","IsSign":0}],"Answer":[{"Id":"","Answer":"yān"},{"Id":"","Answer":"yè"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"782","Title":[{"Title":"嘐","IsSign":1},{"Title":"戛","IsSign":0}],"Answer":[{"Id":"","Answer":"jiāo"},{"Id":"","Answer":"jiǎo"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"783","Title":[{"Title":"嘑","IsSign":1},{"Title":"尔","IsSign":0}],"Answer":[{"Id":"","Answer":"hū"},{"Id":"","Answer":"hú"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"784","Title":[{"Title":"嘒","IsSign":1},{"Title":"唳","IsSign":0}],"Answer":[{"Id":"","Answer":"huì"},{"Id":"","Answer":"huī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"786","Title":[{"Title":"邅","IsSign":0},{"Title":"囘","IsSign":1}],"Answer":[{"Id":"","Answer":"huí"},{"Id":"","Answer":"huī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"787","Title":[{"Title":"阿","IsSign":0},{"Title":"囝","IsSign":1}],"Answer":[{"Id":"","Answer":"jiǎn"},{"Id":"","Answer":"jiān"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"788","Title":[{"Title":"囡","IsSign":1},{"Title":"囡","IsSign":0}],"Answer":[{"Id":"","Answer":"nān"},{"Id":"","Answer":"nán"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"790","Title":[{"Title":"邅","IsSign":0},{"Title":"囬","IsSign":1}],"Answer":[{"Id":"","Answer":"huí"},{"Id":"","Answer":"huì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"791","Title":[{"Title":"嶙","IsSign":0},{"Title":"囷","IsSign":1}],"Answer":[{"Id":"","Answer":"qún "},{"Id":"","Answer":"qūn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"792","Title":[{"Title":"园","IsSign":0},{"Title":"囿","IsSign":1}],"Answer":[{"Id":"","Answer":"yóu "},{"Id":"","Answer":"yòu"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"793","Title":[{"Title":"圐","IsSign":0},{"Title":"圀","IsSign":1}],"Answer":[{"Id":"","Answer":"guó"},{"Id":"","Answer":"guō"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"794","Title":[{"Title":"民","IsSign":0},{"Title":"圂","IsSign":1}],"Answer":[{"Id":"","Answer":"hùn"},{"Id":"","Answer":"hūn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"795","Title":[{"Title":"圉","IsSign":1},{"Title":"人","IsSign":0}],"Answer":[{"Id":"","Answer":"yù"},{"Id":"","Answer":"yǔ"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"796","Title":[{"Title":"圊","IsSign":0},{"Title":"蕵","IsSign":1}],"Answer":[{"Id":"","Answer":"sǔn"},{"Id":"","Answer":"sūn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"797","Title":[{"Title":"溷","IsSign":1},{"Title":"圊","IsSign":0}],"Answer":[{"Id":"","Answer":"hūn "},{"Id":"","Answer":"hùn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"799","Title":[{"Title":"圊","IsSign":0},{"Title":"牏","IsSign":1}],"Answer":[{"Id":"","Answer":"yú"},{"Id":"","Answer":"yù"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"800","Title":[{"Title":"圊","IsSign":0},{"Title":"溷","IsSign":1}],"Answer":[{"Id":"","Answer":"hùn"},{"Id":"","Answer":"hūn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"801","Title":[{"Title":"雇","IsSign":0},{"Title":"佣","IsSign":1}],"Answer":[{"Id":"","Answer":"yōng"},{"Id":"","Answer":"yōn"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"805","Title":[{"Title":"晕","IsSign":1},{"Title":"车","IsSign":0}],"Answer":[{"Id":"","Answer":"yūn"},{"Id":"","Answer":"yùn"}],"TimeLong":8,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"806","Title":[{"Title":"装","IsSign":0},{"Title":"载","IsSign":1}],"Answer":[{"Id":"","Answer":"zài"},{"Id":"","Answer":"zǎi"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"812","Title":[{"Title":"正","IsSign":1},{"Title":"月","IsSign":0}],"Answer":[{"Id":"","Answer":"zhēng"},{"Id":"","Answer":"zhēn"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"815","Title":[{"Title":"种","IsSign":1},{"Title":"族","IsSign":0}],"Answer":[{"Id":"","Answer":"zhǒng"},{"Id":"","Answer":"zhǒn"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"820","Title":[{"Title":"屴","IsSign":1},{"Title":"崱","IsSign":0}],"Answer":[{"Id":"","Answer":"lì"},{"Id":"","Answer":"lǐ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"821","Title":[{"Title":"崱","IsSign":1},{"Title":"屴","IsSign":0}],"Answer":[{"Id":"","Answer":"zè"},{"Id":"","Answer":"zé"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"822","Title":[{"Title":"陟","IsSign":0},{"Title":"屺","IsSign":1}],"Answer":[{"Id":"","Answer":"qǐ"},{"Id":"","Answer":"qí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"823","Title":[{"Title":"屼","IsSign":1},{"Title":"屼","IsSign":0}],"Answer":[{"Id":"","Answer":"wù"},{"Id":"","Answer":"wǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"824","Title":[{"Title":"山","IsSign":0},{"Title":"岅","IsSign":1}],"Answer":[{"Id":"","Answer":"bān"},{"Id":"","Answer":"bǎn"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"825","Title":[{"Title":"岩","IsSign":0},{"Title":"岈","IsSign":1}],"Answer":[{"Id":"","Answer":"yá"},{"Id":"","Answer":"yǎ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"826","Title":[{"Title":"崛","IsSign":0},{"Title":"岉","IsSign":1}],"Answer":[{"Id":"","Answer":"wù"},{"Id":"","Answer":"wǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"827","Title":[{"Title":"地","IsSign":0},{"Title":"岊","IsSign":1}],"Answer":[{"Id":"","Answer":"jié"},{"Id":"","Answer":"jiē"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"828","Title":[{"Title":"岋","IsSign":1},{"Title":"岋","IsSign":0}],"Answer":[{"Id":"","Answer":"é"},{"Id":"","Answer":"è"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"829","Title":[{"Title":"岩","IsSign":0},{"Title":"岍","IsSign":1}],"Answer":[{"Id":"","Answer":"qiān"},{"Id":"","Answer":"qián"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"830","Title":[{"Title":"岎","IsSign":1},{"Title":"崯","IsSign":0}],"Answer":[{"Id":"","Answer":"fěn"},{"Id":"","Answer":"fén"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"831","Title":[{"Title":"岏","IsSign":1},{"Title":"山","IsSign":0}],"Answer":[{"Id":"","Answer":"wǎn"},{"Id":"","Answer":"wán"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"832","Title":[{"Title":"岒","IsSign":1},{"Title":"峨","IsSign":0}],"Answer":[{"Id":"","Answer":"qiān"},{"Id":"","Answer":"qián"}],"TimeLong":2,"Index":1,"Result":{"Index":1,"Type":1,"Status":0}}
+,{"Id":"837","Title":[{"Title":"台","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"tāi"},{"Id":"","Answer":"tái"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"838","Title":[{"Title":"嵊","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"shèng"},{"Id":"","Answer":"chèng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"839","Title":[{"Title":"鄞","IsSign":1},{"Title":"县","IsSign":0}],"Answer":[{"Id":"","Answer":"yín"},{"Id":"","Answer":"jín"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"845","Title":[{"Title":"亳","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"bó"},{"Id":"","Answer":"háo"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"847","Title":[{"Title":"黟","IsSign":1},{"Title":"县","IsSign":0}],"Answer":[{"Id":"","Answer":"yī"},{"Id":"","Answer":"yīn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"853","Title":[{"Title":"邳","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"pī"},{"Id":"","Answer":"pīn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"856","Title":[{"Title":"泛","IsSign":1},{"Title":"水","IsSign":0}],"Answer":[{"Id":"","Answer":"fàn"},{"Id":"","Answer":"fàng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"857","Title":[{"Title":"汜","IsSign":1},{"Title":"水","IsSign":0}],"Answer":[{"Id":"","Answer":"sì"},{"Id":"","Answer":"shì"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"858","Title":[{"Title":"睢","IsSign":1},{"Title":"宁","IsSign":0}],"Answer":[{"Id":"","Answer":"suī"},{"Id":"","Answer":"huī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"862","Title":[{"Title":"穆","IsSign":0},{"Title":"棱","IsSign":1}],"Answer":[{"Id":"","Answer":"líng"},{"Id":"","Answer":"léng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"863","Title":[{"Title":"珲","IsSign":1},{"Title":"春","IsSign":0}],"Answer":[{"Id":"","Answer":"hún"},{"Id":"","Answer":"huí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"864","Title":[{"Title":"桦","IsSign":1},{"Title":"甸","IsSign":0}],"Answer":[{"Id":"","Answer":"huà"},{"Id":"","Answer":"hà"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"865","Title":[{"Title":"阜","IsSign":1},{"Title":"新","IsSign":0}],"Answer":[{"Id":"","Answer":"fù"},{"Id":"","Answer":"fǔ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"868","Title":[{"Title":"磴","IsSign":1},{"Title":"口","IsSign":0}],"Answer":[{"Id":"","Answer":"dèng"},{"Id":"","Answer":"dèn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"871","Title":[{"Title":"井","IsSign":0},{"Title":"陉","IsSign":1}],"Answer":[{"Id":"","Answer":"xíng"},{"Id":"","Answer":"jing"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"874","Title":[{"Title":"涿","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"zhuō"},{"Id":"","Answer":"zhú"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"875","Title":[{"Title":"大","IsSign":1},{"Title":"城","IsSign":0}],"Answer":[{"Id":"","Answer":"dài"},{"Id":"","Answer":"dà"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"876","Title":[{"Title":"邯","IsSign":1},{"Title":"郸","IsSign":0}],"Answer":[{"Id":"","Answer":"hán"},{"Id":"","Answer":"há"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"879","Title":[{"Title":"临","IsSign":0},{"Title":"汾","IsSign":1}],"Answer":[{"Id":"","Answer":"fén"},{"Id":"","Answer":"fěn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"883","Title":[{"Title":"茌","IsSign":1},{"Title":"平","IsSign":0}],"Answer":[{"Id":"","Answer":"chí"},{"Id":"","Answer":"cí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"884","Title":[{"Title":"临","IsSign":0},{"Title":"沂","IsSign":1}],"Answer":[{"Id":"","Answer":"yí"},{"Id":"","Answer":"qí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"885","Title":[{"Title":"郯","IsSign":1},{"Title":"城","IsSign":0}],"Answer":[{"Id":"","Answer":"tán"},{"Id":"","Answer":"táng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"888","Title":[{"Title":"淄","IsSign":1},{"Title":"博","IsSign":0}],"Answer":[{"Id":"","Answer":"zī"},{"Id":"","Answer":"cī"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"896","Title":[{"Title":"郴","IsSign":1},{"Title":"州","IsSign":0}],"Answer":[{"Id":"","Answer":"chēn"},{"Id":"","Answer":"chēng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"898","Title":[{"Title":"黄","IsSign":0},{"Title":"陂","IsSign":1}],"Answer":[{"Id":"","Answer":"pí"},{"Id":"","Answer":"bō"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"899","Title":[{"Title":"郧","IsSign":1},{"Title":"县","IsSign":0}],"Answer":[{"Id":"","Answer":"yún"},{"Id":"","Answer":"xūn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"900","Title":[{"Title":"秭","IsSign":1},{"Title":"归","IsSign":0}],"Answer":[{"Id":"","Answer":"zǐ"},{"Id":"","Answer":"zhǐ"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"902","Title":[{"Title":"蕲","IsSign":1},{"Title":"春","IsSign":0}],"Answer":[{"Id":"","Answer":"qí"},{"Id":"","Answer":"jí"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"903","Title":[{"Title":"浚","IsSign":1},{"Title":"县","IsSign":0}],"Answer":[{"Id":"","Answer":"xùn"},{"Id":"","Answer":"jùn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"907","Title":[{"Title":"渑","IsSign":1},{"Title":"池","IsSign":0}],"Answer":[{"Id":"","Answer":"miǎn"},{"Id":"","Answer":"shéng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"909","Title":[{"Title":"荥","IsSign":1},{"Title":"阳","IsSign":0}],"Answer":[{"Id":"","Answer":"xíng"},{"Id":"","Answer":"yíng"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"912","Title":[{"Title":"东","IsSign":0},{"Title":"莞","IsSign":1}],"Answer":[{"Id":"","Answer":"guǎn"},{"Id":"","Answer":"guǎng"}],"TimeLong":8,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"914","Title":[{"Title":"筻","IsSign":1},{"Title":"口","IsSign":0}],"Answer":[{"Id":"","Answer":"gàng"},{"Id":"","Answer":"huàn"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
+,{"Id":"921","Title":[{"Title":"枨","IsSign":1},{"Title":"冲","IsSign":0}],"Answer":[{"Id":"","Answer":"chéng"},{"Id":"","Answer":"chén"}],"TimeLong":2,"Index":0,"Result":{"Index":0,"Type":1,"Status":0}}
